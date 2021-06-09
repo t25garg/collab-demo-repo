@@ -1,4 +1,4 @@
 public class First {
 
-    String str;
+    String str = null;
 }
